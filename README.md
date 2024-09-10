@@ -60,4 +60,4 @@ This project develops an unsupervised learning trading strategy to analyze S&P 5
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Bizurejr/Algo-Trading-ML)
